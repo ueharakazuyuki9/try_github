@@ -1,3 +1,3 @@
-﻿class Add{
-
+﻿class Add
+{
 }
